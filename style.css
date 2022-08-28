@@ -86,4 +86,8 @@
   .email-link:hover {
     text-decoration: underline;
   }
+
+  .apps-p {
+    text-align: justify;
+  }
   
